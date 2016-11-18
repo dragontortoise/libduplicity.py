@@ -1,2 +1,4 @@
-Python Module Wrapper for duplicity command line.
+libduplicity.py is a python module.  With this, you can use duplicity
+inside your python program without having to use subprocess module by
+yourself which gives you better readability in your program.
 
